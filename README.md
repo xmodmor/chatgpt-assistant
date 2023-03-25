@@ -1,4 +1,3 @@
-# chatgpt-assistant
 Chatbot with OpenAI and MongoDB
 ===============================
 
