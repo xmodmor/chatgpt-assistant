@@ -11,6 +11,10 @@ Installation
 
 Copy code
 
+`python -m venv env`
+
+`.\env\Scripts\activate`
+
 `pip install -r requirements.txt`
 
 3.  Create a `.env` file in the root directory of the project and add the following variables:
